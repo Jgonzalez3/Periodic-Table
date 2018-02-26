@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width: 1120px;
+    background-color: #EEEEEE;
+    margin: 0 auto;
+}
+p{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+span{
+    color: #1B1392;
+    font-weight: bold;
+    font-size: 13pt;
+}
+.leftcontainer{
+    display: inline-block;
+    width: 165px;
+    vertical-align: top;
+}
+.redfont{
+    font-size: 10pt;
+    margin-top: 2px;
+    color: red;
+    padding-top: 10px;
+}
+.graybox{
+    width: 52px;
+    height: 37px;
+}
+.rightcontainer{
+    display: inline-block;
+    width: 900px;
+    margin: 0 0 10px 15px;
+}
+.graybox15wide{
+    height: 37px;
+    width: 842px;
+}
+.graybox10wide{
+    height: 37px;
+    width: 560px;
+}
+.bluebox, .yellowbox, .pinkbox, .greenbox{
+    width: 50px;
+    height: 45px;
+    border: solid gray 1px; 
+    margin-top: 2px;
+    font-size: 8pt;
+}
+.bluebox{
+    background-color: #689BFF;
+}
+.yellowbox{
+    background-color: #FECB00;
+}
+.pinkbox{
+    background-color: #FD9A98;
+}
+.greenbox{
+    background-color: #1FCA21;
+    margin-top: 4px;
+}
+footer{
+    width: 1000px;
+    padding: 15px 0;
+}
+#lanthanoidsbox{
+    width: 175px;
+    height: 31px;
+    padding-top: 14px;
+}
+#actinoidsbox{
+    width: 169.75px;
+    height: 28px;
+    padding-top: 20px;
+}
+.asterisk{
+    position: relative;
+    top: 13px;
+}
+.doubleasterisk{
+    position: relative;
+    top: 20px;
+}
+
